@@ -1,0 +1,3 @@
+server:
+    app-name: Demo1
+environment: default

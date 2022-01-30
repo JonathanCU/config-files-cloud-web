@@ -1,0 +1,3 @@
+server:
+    app-name: Project1
+environment: dev
